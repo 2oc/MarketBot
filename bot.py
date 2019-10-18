@@ -11,7 +11,7 @@ import pdb
 
 import const, base, markups, temp, config
 
-bot = telebot.TeleBot(const.token)
+bot = telebot.TeleBot('885760516:AAEjQvzf89OlPlwv6bzQ_T8IUNYTMcRnlHk')
 uploaded_items = {}
 
 
